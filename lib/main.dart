@@ -105,13 +105,13 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.network(
-                'https://upload.wikimedia.org/wikipedia/commons/e/e4/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg',
+                "https://openclipart.org/image/800px/214449",
                 width: 150,
                 height: 150,
               ),
               SizedBox(height: 10),
               Text(
-                "Cloudy 54°F",
+                "Snowing -10°F",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
             ],
@@ -120,13 +120,13 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.network(
-                'https://upload.wikimedia.org/wikipedia/commons/e/e4/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg',
+                "https://img.freepik.com/premium-vector/cartoon-illustration-sunny-day-with-blue-sky-fluffy-white-clouds-green-grassy-field-with-yellow-flowers_123891-97478.jpg?semt=ais_incoming&w=740&q=80",
                 width: 150,
                 height: 150,
               ),
               SizedBox(height: 10),
               Text(
-                "Cloudy 54°F",
+                "Sunny 100°F",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
             ],
@@ -135,13 +135,13 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.network(
-                'https://upload.wikimedia.org/wikipedia/commons/e/e4/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg',
+                "https://content.mycutegraphics.com/graphics/rain/girl-standing-in-rain.png",
                 width: 150,
                 height: 150,
               ),
               SizedBox(height: 10),
               Text(
-                "Cloudy 54°F",
+                "Raining 95°F",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
             ],
@@ -150,13 +150,13 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.network(
-                'https://upload.wikimedia.org/wikipedia/commons/e/e4/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg',
+                "https://www.shutterstock.com/image-vector/hail-hits-car-damaged-260nw-2103050930.jpg",
                 width: 150,
                 height: 150,
               ),
               SizedBox(height: 10),
               Text(
-                "Cloudy 54°F",
+                "Hail -10°F",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
             ],
