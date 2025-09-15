@@ -165,13 +165,13 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.network(
-                'https://upload.wikimedia.org/wikipedia/commons/e/e4/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg',
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0zzWDQNYkMxxXfgyEUKhft5_GPdxmhCrpQ&s",
                 width: 150,
                 height: 150,
               ),
               SizedBox(height: 10),
               Text(
-                "Cloudy 54°F",
+                "Volcano Eruption 54°F",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
             ],
@@ -180,13 +180,13 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Image.network(
-                'https://upload.wikimedia.org/wikipedia/commons/e/e4/San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg',
+                "https://img.freepik.com/free-vector/hand-drawn-tornado-cartoon-illustration_52683-121089.jpg",
                 width: 150,
                 height: 150,
               ),
               SizedBox(height: 10),
               Text(
-                "Cloudy 54°F",
+                "Tornado 54°F",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
             ],
